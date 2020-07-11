@@ -1,0 +1,5 @@
+-Git y Github
+-Angular 9
+-React Js
+-Sass
+-asdddsa

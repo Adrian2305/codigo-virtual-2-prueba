@@ -1,0 +1,30 @@
+Sistema de versionamiento de código, sirve para guardar las líneas de códigos para seguir 
+trabajando en ello en otro momento.
+También se puede poner comentarios.
+
+commit: Registrar o guardar un codigo en el tiempo para todos los archivos.
+pull: Verificar y descargar los cambios de un repositorio.
+clone: Clonar un repositorio externo.
+remote: Repositorio remoto.
+init: Iniciar el sistema de versionamiento.
+
+Github:Es un programa independiente de git (Es como una red social).Sirve para subir nuestro
+repositorio a la nube
+
+Sirve como CV para los desarrolladores(Permite mostrar el trabajo a cualquiera).
+
+gitlab, bitbucket(diferentes servidores)
+
+git init: iniciar el sistema de version en la carpeta que nos encontramos.
+
+git status: Consultar el estado de mi repositorio
+
+git add . = agregar todos los archivos decargados al stage
+
+git commit -m : Agregar los archivos iniciales
+
+git config -l : Mostrar la configuración de las variables globales de git. (comandos).
+
+git config --global user.name "nombre": Para cambiar el  nombre
+
+git commit -amend : Modificar el último comentario
