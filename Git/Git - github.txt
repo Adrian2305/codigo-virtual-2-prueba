@@ -28,3 +28,6 @@ git config -l : Mostrar la configuración de las variables globales de git. (coma
 git config --global user.name "nombre": Para cambiar el  nombre
 
 git commit -amend : Modificar el último comentario
+
+git log : Todo los comandos que utilizaste.
+
